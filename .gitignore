@@ -1,0 +1,4 @@
+*.exe
+*.DS_Store
+cmd/adapter-server
+.gitmessage
